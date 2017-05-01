@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/cool-background.jpg</file>
+        <file>NavForm.qml</file>
+        <file>Images/navigation3d.png</file>
+        <file>Images/launchpadIcon.png</file>
+        <file>Images/apps.png</file>
+        <file>Images/appsIcon.png</file>
+        <file>Images/calculator.png</file>
+        <file>Images/notepad.ico</file>
+        <file>Images/paintIcon.png</file>
+        <file>Images/marker.png</file>
+        <file>Images/ie.ico</file>
+        <file>Images/Media Player.png</file>
+        <file>Images/ctrlPanel.png</file>
+        <file>Images/myComp.ico</file>
+        <file>Images/camIcon.png</file>
+        <file>Images/appsBck.jpg</file>
+        <file>Images/fawkes.jpg</file>
+    </qresource>
+</RCC>
